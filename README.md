@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jthimba
 - 👀 I’m interested in everything that involves machines.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 0112614911 or instagram @5y_.d.a.s.h
+- 🌱 I’m currently learning but i have skills in Python, Kotlin, Java & HTML.
+- 📫 How to reach me +254103118395 or instagram @_thimba
 
 <!---
 jthimba/jthimba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
